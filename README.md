@@ -1,2 +1,2 @@
 # PortfolioWebpage
-Responsive Web Design Proget 5 on FreeCodeCamp
+Responsive Web Design Project 5 on FreeCodeCamp
